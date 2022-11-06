@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.theearthsafari.com	TRUE	/	FALSE	1999999999	PHPSESSID	27fa2fd553dbae5a1a8390da46e56c98
+
